@@ -23,8 +23,8 @@
 |3080|10GB|2153|60|Мало||
 
 ## Корпус
----
 #### Сам корпус
+---
 [LIAN LI O11 Dynamic XL](https://www.dns-shop.ru/product/b42a5ef9640f3332/korpus-lian-li-pc-o11-dynamic-xl-rog-certify-g99o11dxl-w00-belyj/) - 20 тыс.
 
 Пыльники, быстрый съём, куча места, любые форм-факторы материнок
